@@ -1,0 +1,39 @@
+.logoAndHeading{
+    display: flex;
+    padding: 6px 3px;
+}
+.logo{
+    background: url("logo.png") no-repeat center center/cover;
+    height: 60px;
+    width: 60px;
+    margin-left: 20px;
+}
+.textAndCurrentDetails{
+    height: auto;
+    padding: 15px 0px;
+    margin: 0px 1px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.timestampToHuman{
+    margin-left: 30px;
+}
+.humanToTimestamp{
+    margin-left: 30px;
+}
+#epochUnix{
+    height: 35px;
+    padding: 2px;
+}
+.thin{
+    font-weight: 400;
+}
+.h2{
+    color: #5f5e5e;
+    margin-left: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.btn{
+    color: white;
+}
