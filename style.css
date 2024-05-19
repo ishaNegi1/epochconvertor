@@ -3,10 +3,13 @@
     padding: 6px 3px;
 }
 .logo{
-    background: url("logo.png") no-repeat center center/cover;
+    background: url("logo.jpg") no-repeat center center/cover;
     height: 60px;
     width: 60px;
     margin-left: 20px;
+}
+.mainHeading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .textAndCurrentDetails{
     height: auto;
