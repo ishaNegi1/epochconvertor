@@ -3,12 +3,14 @@
     padding: 6px 3px;
 }
 .logo{
-    background: url("logo.jpg") no-repeat center center/cover;
+    background: url("clock.png") no-repeat center center/cover;
     height: 60px;
     width: 60px;
     margin-left: 20px;
+    margin-right: 10px;
 }
 .mainHeading{
+    /* font-size: 30px; */
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .textAndCurrentDetails{
@@ -31,12 +33,14 @@
 }
 .thin{
     font-weight: 400;
+    color: #262f75;
 }
 .h2{
-    color: #5f5e5e;
+    color: #262f75;
     margin-left: 30px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 .btn{
     color: white;
+    margin-left: 10px;
 }
